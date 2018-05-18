@@ -1,0 +1,13 @@
+<div class='centerMe'>
+  <div class='cta'>
+    <span>Notify me</span>
+    <form>
+      <div class='input'>
+        <input placeholder='E-mail'>
+      </div>
+      <div class='button'>
+        <button disabled='disabled' type='submit'>Send</button>
+      </div>
+    </form>
+  </div>
+</div>
